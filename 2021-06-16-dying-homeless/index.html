@@ -1,0 +1,64 @@
+<%= await t.include("lib/_head.html") %>
+
+<% if (COPY.labels.headline) { %>
+<h1><%= t.smarty(COPY.labels.headline) %></h1>
+<% } %>
+
+<% if (COPY.labels.subhed) { %>
+<%= COPY.labels.subhed %>
+<% } %>
+
+<div id="timeline" class="graphic">
+    <div class="timeline">
+        <% 
+
+        // https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore#_groupby
+
+        var years = Object.entries(COPY.data.reduce((r, v, i, a, k = v.grouping) => ((r[k] || (r[k] = [])).push(v), r), {}))
+        console.log(COPY.data)
+        years.forEach(function(group) {
+
+            %>
+
+            <div class="year">
+                <span class="year_text"><%= group[0] %></span>
+                <div class="cards">
+                    <% group[1].forEach(function(row) { %>
+                       <div class="card">
+                           <header>
+                               <span class="month"><%= t.ap_date(row.date) %></span>
+                           </header>
+                           <div class="content">
+                               <div class="title"><span class="name"><%= row.name %></span> <span class="age"><%= row.age %></span></div>
+                               <% if (row.text_1) { %>
+                                <p><%= row.text_1 %></p>
+                                <% } %>
+                                <% if (row.text_2) { %>
+                                    <p><%= row.text_2 %></p>
+                                    <% } %>
+                           </div>
+                       </div> 
+                    <% }) %>
+                </div>
+            </div>
+    
+            <% }) %>
+    
+    </div>
+</div>
+
+<% if (COPY.labels.footnote) { %>
+<div class="footnotes">
+    <h4>Notes</h4>
+    <p><%= COPY.labels.footnote %></p>
+</div>
+<% } %>
+
+<div class="footer">
+    <% if (COPY.labels.source) { %><p>Source: <%= COPY.labels.source %></p><% } %>
+    <% if (COPY.labels.credit) { %><p>Credit: <%= COPY.labels.credit %></p><% } %>
+</div>
+
+<script src="./graphic.js"></script>
+
+<%= await t.include("lib/_foot.html") %>

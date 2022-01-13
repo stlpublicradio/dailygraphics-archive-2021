@@ -1,0 +1,62 @@
+<%= await t.include("lib/_head.html") %>
+
+<% if (COPY.labels.top_label) { %>
+  <h1 class="label"><%= t.smarty(COPY.labels.top_label) %></h1>
+  <% } %>
+
+<% if (COPY.labels.headline) { %>
+<h1><%= t.smarty(COPY.labels.headline) %></h1>
+<% } %>
+
+<% if (COPY.labels.subhed) { %>
+<p class="chatter"><%= t.smarty(COPY.labels.subhed) %></p>
+<% } %>
+
+<ul class="key"><li class="key-item"><b class="current"></b><label><%= t.smarty(COPY.labels.key) %> &mdash; <em><%= t.smarty(COPY.labels.date) %></em></label></li></ul>
+
+<div class="graphic" id="table-graphic">
+  <table id="state-table" role="table">
+    <thead role="rowgroup">
+      <tr role="row">
+        <th role="columnheader" class="phase">
+          <div class="header"><%= COPY.labels.hdr_phase %></div>
+        </th>
+        <th role="columnheader" class="who">
+          <div class="header"><%= COPY.labels.hdr_who %></div>
+        </th>
+      </tr>
+    </thead>
+
+    <% COPY.data.forEach(function(row) { %>
+    <tr class="<% if (row.current) { %> <%= t.classify(row.current) %> <% } %> phase <%= t.classify(row.phase) %>" role="row">
+      <td class="phase" rowspan="2" role="cell" data-title="<%= COPY.labels.hdr_phase %>"><%= row.phase %></td>
+      <td role="cell""><h5 class="who label"><span class="arrow right"></span> <%= row.who %></h5></td>
+    </tr>
+    <tr class="<% if (row.current) { %> <%= t.classify(row.current) %> <% } %> phase-<%= t.classify(row.phase) %> row-2" role="row">
+      <td class="hidden who_detailed" role="cell" data-title="<%= COPY.labels.hdr_who_detailed %>"><%= row.who_detailed %></td>
+    </tr>
+  <% }) %>
+
+  </table>
+</div>
+
+<% if (COPY.labels.footnote) { %>
+<div class="footnotes">
+  <h4>Notes</h4>
+  <p><%= COPY.labels.footnote %></p>
+</div>
+<% } %>
+
+<div class="footer">
+  <% if (COPY.labels.source) { %>
+  <p>Source: <%= COPY.labels.source %></p>
+  <% } %>
+
+  <% if (COPY.labels.credit) { %>
+  <p>Credit: <%= COPY.labels.credit %></p>
+  <% } %>
+</div>
+
+<script src="./graphic.js"></script>
+
+<%= await t.include("lib/_foot.html") %>

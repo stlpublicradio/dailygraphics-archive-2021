@@ -1,0 +1,156 @@
+{
+  "type": "Topology",
+  "objects": {
+    "collection": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": { "name": "Sharon Tyus", "ward":"Ward 12" },
+          "coordinates": [4310, 6765]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Lisa Middlebrook", "ward":"Ward 13" },
+          "coordinates": [5681, 9999]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Brandon Bosley", "ward":"Ward 14" },
+          "coordinates": [9761, 6368]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Dwinderlin Evans", "ward":"Ward 12" },
+          "coordinates": [5733, 6720]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "James Page", "ward":"Ward 14" },
+          "coordinates": [9719, 4206]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Christine Ingrassia", "ward":"Ward 7" },
+          "coordinates": [6616, 2609]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Jack Coatar", "ward":"Ward 8" },
+          "coordinates": [9999, 2817]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Annie Rice", "ward":"Ward 6" },
+          "coordinates": [5136, 2985]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Dan Guenther", "ward":"Ward 8" },
+          "coordinates": [7620, 2271]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Joe Vollmer", "ward":"Ward 5" },
+          "coordinates": [2279, 3362]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Sarah Wood Martin", "ward":"Ward 1" },
+          "coordinates": [3597, 0]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Bill Stephens", "ward":"Ward 2" },
+          "coordinates": [1363, 797]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Anne Schweitzer", "ward":"Ward 1" },
+          "coordinates": [2665, 128]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Carol Howard", "ward":"Ward 2", "note":"Carol Howard has already terminated her campaign committee." },
+          "coordinates": [2716, 1014]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Megan Green", "ward":"Ward 6" },
+          "coordinates": [4680, 2050]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Tom Oldenburg", "ward":"Ward 2" },
+          "coordinates": [0, 1864]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Tina Pihl", "ward":"Ward 9" },
+          "coordinates": [4210, 4141]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Jesse Todd", "ward":"Ward 12" },
+          "coordinates": [5278, 5402]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Marlene Davis", "ward":"Ward 11" },
+          "coordinates": [7943, 4820]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Cara Spencer", "ward":"Ward 8" },
+          "coordinates": [7976, 1360]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "John Collins-Muhammad", "ward":"Ward 11" },
+          "coordinates": [7504, 6947]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Jeffrey Boyd", "ward":"Ward 13" },
+          "coordinates": [1702, 6896]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Joe Vaccaro", "ward":"Ward 4" },
+          "coordinates": [355, 2359]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Bret Narayn", "ward":"Ward 4" },
+          "coordinates": [767, 4309]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Shane Cohn", "ward":"Ward 3" },
+          "coordinates": [5196, 665]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Shameem Clark Hubbard", "ward":"Ward 10" },
+          "coordinates": [1943, 6207]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Pam Boyd", "ward":"Ward 13" },
+          "coordinates": [4611, 9288]
+        },
+        {
+          "type": "Point",
+          "properties": { "name": "Heather Navarro", "ward":"Ward 10" },
+          "coordinates": [529, 5496]
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "transform": {
+    "scale": [0.000009956395639563726, 0.000015553255325532874],
+    "translate": [-90.299183, 38.564107]
+  },
+  "bbox": [-90.299183, 38.564107, -90.199629, 38.719624]
+}

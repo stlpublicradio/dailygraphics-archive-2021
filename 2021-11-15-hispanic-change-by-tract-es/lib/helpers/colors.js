@@ -1,0 +1,1 @@
+module.exports = {"ltgreen": "#b3ca2d", "green": "#639d48", "dkgreen": "#006b71", "ltblue": "#90cef1", "blue": "#00abc3", "dkblue": "#237bbd", "yellow": "#edd232", "orange": "#faa21b", "tangerine": "#f26522", "red": "#d62021", "pink": "#e03669", "maroon": "#9a104f", "purple": "#592059",}; 

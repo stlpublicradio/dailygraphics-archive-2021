@@ -1,0 +1,63 @@
+@import "./lib/base";
+
+@import (less) "../node_modules/leaflet/dist/leaflet.css";
+
+#map {
+    position: relative;
+    height: 700px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .info {
+    .sans-serif-condensed();
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.3;
+    color: @grey;
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    max-width: 300px;
+  }
+  
+  .legend {
+    text-align: left;
+    line-height: 18px;
+    color: @grey;
+    min-width: 190px;
+    
+  }
+
+  .legend_labels {
+      clear:both;
+  }
+  .legend_label {
+      font-weight: 700;
+      float:left;
+      max-width: 40px;
+      margin-right: 8px;
+      text-align: center;
+  }
+  
+  .legend i {
+    min-width: 40px;
+    max-width: 20%;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.8;
+  }
+  
+  .region {
+    fill: rgba(100,100,100,.6);
+  }
+  
+  .region-boundary {
+    stroke: rgba(100,100,100,1);
+    fill: none;
+  }

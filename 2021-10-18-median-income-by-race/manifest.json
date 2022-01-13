@@ -1,0 +1,35 @@
+{
+  "templateSheet": "12utHpYvARMMlf2SOEZtxmLF2yTcikVbLzT8mH_KO7HI",
+  "files": [
+    "*.html",
+    "!_*.html",
+    "graphic.js",
+    "graphic.less",
+    "*.png",
+    "*.jpg",
+    "*.gif",
+    "*.json",
+    "!manifest.json",
+    "*.geojson",
+    "*.csv"
+  ],
+  "sheet": "1qSXpQE50l-Aj_Q99pAdCWtu9v0NZd_3wRPRvyI7oT0I",
+  "installedPackagesAtCreation": {
+    "@mapbox/assembly": "^1.3.0",
+    "d3": "^6.2.0",
+    "d3-array": "^2.4.0",
+    "d3-axis": "^1.0.12",
+    "d3-fetch": "^2.0.0",
+    "d3-request": "^1.0.6",
+    "d3-scale": "^3.2.1",
+    "d3-selection": "^2.0.0",
+    "d3-shape": "^1.3.7",
+    "d3-svg": "^0.2.2",
+    "i": "^0.3.7",
+    "jquery": "^3.6.0",
+    "leaflet": "^1.7.1",
+    "leaflet-groupedlayercontrol": "^0.6.1",
+    "npm": "^7.24.1",
+    "topojson": "^3.0.2"
+  }
+}

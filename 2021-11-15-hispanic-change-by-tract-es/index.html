@@ -1,0 +1,48 @@
+<%= await t.include("lib/_head.html") %>
+
+<% if (COPY.labels_es.top_label) { %>
+    <h1 class="label"><%= t.smarty(COPY.labels_es.top_label) %></h1>
+<% } %>
+
+<% if (COPY.labels_es.headline) { %>
+<h1><%= t.smarty(COPY.labels_es.headline) %></h1>
+<% } %>
+
+<% if (COPY.labels_es.subhed) { %>
+<p class="chatter"><%= t.smarty(COPY.labels_es.subhed) %></p>
+<% } %>
+
+<% if (COPY.labels_es.chart_label) { %>
+    <h5 class="label"><%= t.smarty(COPY.labels_es.chart_label) %></h5>
+<% } %>
+
+<div id="" class="graphic" role="img"
+<% if (COPY.labels_es.screenreader) { %>
+aria-label="<%- COPY.labels_es.screenreader %>"
+<% } %>
+>
+    <img src="fallback.png" alt="" class="fallback" />
+</div>
+
+<% if (COPY.labels_es.footnote) { %>
+<div class="footnotes">
+    <h4>Nota</h4>
+    <p><%= COPY.labels_es.footnote %></p>
+</div>
+<% } %>
+
+<div class="footer">
+    <% if (COPY.labels_es.source) { %><p>Origen: <%= COPY.labels_es.source %></p><% } %>
+    <% if (COPY.labels_es.credit) { %><p>Crédito: <%= COPY.labels_es.credit %></p><% } %>
+</div>
+
+<% if ("data" in COPY) { %>
+<script type="text/javascript">
+window.DATA = <%= JSON.stringify(COPY.data) %>;
+</script>
+<% } %>
+
+
+<script src="./graphic.js"></script>
+
+<%= await t.include("lib/_foot.html") %>

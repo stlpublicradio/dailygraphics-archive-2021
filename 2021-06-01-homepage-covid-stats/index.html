@@ -1,0 +1,49 @@
+<%= await t.include("lib/_head.html") %>
+
+<% if (COPY.labels.headline) { %>
+<h1><%= t.smarty(COPY.labels.headline) %></h1>
+<% } %>
+
+<% if (COPY.labels.subhed) { %>
+<p class="chatter"><%= t.smarty(COPY.labels.subhed) %></p>
+<% } %>
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>At least<br/> one shot</th>
+            <th>Fully<br/>vaccinated</th>
+            <th>Total<br/>deaths</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    </tbody>
+</table>
+
+<!-- <div id="" class="graphic" role="img"
+<% if (COPY.labels.screenreader) { %>
+aria-label="<%- COPY.labels.screenreader %>"
+<% } %>
+>
+    <img src="fallback.png" alt="" class="fallback" />
+</div> -->
+
+    <div class="footnotes">
+    <h4>Notes</h4>
+    <p>Data last updated <span class="last-updated"></span>.</p>
+    <% if (COPY.labels.footnote) { %>
+    <p><%= COPY.labels.footnote %></p>
+    <% } %>
+</div>
+
+
+<div class="footer">
+    <% if (COPY.labels.source) { %><p>Source: <%= COPY.labels.source %></p><% } %>
+    <% if (COPY.labels.credit) { %><p>Credit: <%= COPY.labels.credit %></p><% } %>
+</div>
+
+<script src="./graphic.js"></script>
+
+<%= await t.include("lib/_foot.html") %>

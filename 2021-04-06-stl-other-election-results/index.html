@@ -1,0 +1,104 @@
+<%= await t.include("lib/_head.html") %>
+
+<% if (COPY.labels.other_headline) { %>
+<h1><%= t.smarty(COPY.labels.other_headline) %></h1>
+<% } %>
+
+<% if (COPY.labels.other_subhed) { %>
+<p class="chatter"><%= t.smarty(COPY.labels.other_subhed) %></p>
+<% } %>
+
+
+<h1 class="label">Earnings Tax (Prop E)</h1>
+<div id="bar-chart-earnings-tax" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+
+<h1 class="label">Metropolitan Sewer District</h1>
+<% if (COPY.labels.msd_note) { %>
+  <p class="chatter"><%= t.smarty(COPY.labels.msd_note) %></p>
+  <% } %>
+  <h5 class="label">Prop Y</h5>
+<div id="bar-chart-msd-Y" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Prop 1</h5>
+<div id="bar-chart-msd-1" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Prop 2</h5>
+<div id="bar-chart-msd-2" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Prop 3</h5>
+<div id="bar-chart-msd-3" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Prop 4</h5>
+<div id="bar-chart-msd-4" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Prop 5</h5>
+<div id="bar-chart-msd-5" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+
+<h1 class="label">St. Louis Public Schools Board of Education</h1>
+<% if (COPY.labels.school_bd_note) { %>
+  <p class="chatter"><%= t.smarty(COPY.labels.school_bd_note) %></p>
+  <% } %>
+<div id="bar-chart-school-bd" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+
+<% if (COPY.labels.other_footnote) { %>
+<div class="footnotes">
+  <h4>Notes</h4>
+  <p><%= COPY.labels.other_footnote %></p>
+</div>
+<% } %>
+
+<div class="footer">
+  <% if (COPY.labels.other_source) { %><p>Source: <%= COPY.labels.other_source %></p><% } %>
+  <% if (COPY.labels.credit) { %><p>Credit: <%= COPY.labels.credit %></p><% } %>
+</div>
+
+<script type="text/javascript">
+  var DATA = <%= JSON.stringify(COPY.data) %>;
+</script>
+
+<script src="./graphic.js"></script>
+
+<%= await t.include("lib/_foot.html") %>

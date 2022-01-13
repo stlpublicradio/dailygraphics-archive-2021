@@ -1,0 +1,4302 @@
+{
+    "195001": {
+        "date": "195001",
+        "Illinois": "3",
+        "Missouri": "2"
+    },
+    "195002": {
+        "date": "195002",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195003": {
+        "date": "195003",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "195004": {
+        "date": "195004",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195005": {
+        "date": "195005",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195006": {
+        "date": "195006",
+        "Illinois": "1",
+        "Missouri": "2"
+    },
+    "195007": {
+        "date": "195007",
+        "Illinois": "1",
+        "Missouri": "1"
+    },
+    "195008": {
+        "date": "195008",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "195009": {
+        "date": "195009",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195010": {
+        "date": "195010",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195011": {
+        "date": "195011",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195012": {
+        "date": "195012",
+        "Illinois": "5",
+        "Missouri": "0"
+    },
+    "195101": {
+        "date": "195101",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195102": {
+        "date": "195102",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195103": {
+        "date": "195103",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195104": {
+        "date": "195104",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195105": {
+        "date": "195105",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "195106": {
+        "date": "195106",
+        "Illinois": "2",
+        "Missouri": "1"
+    },
+    "195107": {
+        "date": "195107",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "195108": {
+        "date": "195108",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195109": {
+        "date": "195109",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195110": {
+        "date": "195110",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195111": {
+        "date": "195111",
+        "Illinois": "2",
+        "Missouri": "1"
+    },
+    "195112": {
+        "date": "195112",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "195201": {
+        "date": "195201",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195202": {
+        "date": "195202",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "195203": {
+        "date": "195203",
+        "Illinois": "2",
+        "Missouri": "4"
+    },
+    "195204": {
+        "date": "195204",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195205": {
+        "date": "195205",
+        "Illinois": "1",
+        "Missouri": "2"
+    },
+    "195206": {
+        "date": "195206",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195207": {
+        "date": "195207",
+        "Illinois": "1",
+        "Missouri": "1"
+    },
+    "195208": {
+        "date": "195208",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "195209": {
+        "date": "195209",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195210": {
+        "date": "195210",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195211": {
+        "date": "195211",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "195212": {
+        "date": "195212",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195301": {
+        "date": "195301",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195302": {
+        "date": "195302",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195303": {
+        "date": "195303",
+        "Illinois": "1",
+        "Missouri": "3"
+    },
+    "195304": {
+        "date": "195304",
+        "Illinois": "3",
+        "Missouri": "0"
+    },
+    "195305": {
+        "date": "195305",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "195306": {
+        "date": "195306",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195307": {
+        "date": "195307",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "195308": {
+        "date": "195308",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "195309": {
+        "date": "195309",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195310": {
+        "date": "195310",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195311": {
+        "date": "195311",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195312": {
+        "date": "195312",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195401": {
+        "date": "195401",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195402": {
+        "date": "195402",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195403": {
+        "date": "195403",
+        "Illinois": "2",
+        "Missouri": "17"
+    },
+    "195404": {
+        "date": "195404",
+        "Illinois": "2",
+        "Missouri": "9"
+    },
+    "195405": {
+        "date": "195405",
+        "Illinois": "3",
+        "Missouri": "8"
+    },
+    "195406": {
+        "date": "195406",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "195407": {
+        "date": "195407",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "195408": {
+        "date": "195408",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "195409": {
+        "date": "195409",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "195410": {
+        "date": "195410",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "195411": {
+        "date": "195411",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195412": {
+        "date": "195412",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195501": {
+        "date": "195501",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195502": {
+        "date": "195502",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195503": {
+        "date": "195503",
+        "Illinois": "1",
+        "Missouri": "7"
+    },
+    "195504": {
+        "date": "195504",
+        "Illinois": "8",
+        "Missouri": "14"
+    },
+    "195505": {
+        "date": "195505",
+        "Illinois": "10",
+        "Missouri": "17"
+    },
+    "195506": {
+        "date": "195506",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "195507": {
+        "date": "195507",
+        "Illinois": "3",
+        "Missouri": "4"
+    },
+    "195508": {
+        "date": "195508",
+        "Illinois": "4",
+        "Missouri": "1"
+    },
+    "195509": {
+        "date": "195509",
+        "Illinois": "3",
+        "Missouri": "2"
+    },
+    "195510": {
+        "date": "195510",
+        "Illinois": "7",
+        "Missouri": "1"
+    },
+    "195511": {
+        "date": "195511",
+        "Illinois": "8",
+        "Missouri": "2"
+    },
+    "195512": {
+        "date": "195512",
+        "Illinois": "2",
+        "Missouri": "0"
+    },
+    "195601": {
+        "date": "195601",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195602": {
+        "date": "195602",
+        "Illinois": "4",
+        "Missouri": "10"
+    },
+    "195603": {
+        "date": "195603",
+        "Illinois": "2",
+        "Missouri": "2"
+    },
+    "195604": {
+        "date": "195604",
+        "Illinois": "15",
+        "Missouri": "9"
+    },
+    "195605": {
+        "date": "195605",
+        "Illinois": "5",
+        "Missouri": "4"
+    },
+    "195606": {
+        "date": "195606",
+        "Illinois": "5",
+        "Missouri": "8"
+    },
+    "195607": {
+        "date": "195607",
+        "Illinois": "3",
+        "Missouri": "18"
+    },
+    "195608": {
+        "date": "195608",
+        "Illinois": "17",
+        "Missouri": "15"
+    },
+    "195609": {
+        "date": "195609",
+        "Illinois": "1",
+        "Missouri": "3"
+    },
+    "195610": {
+        "date": "195610",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195611": {
+        "date": "195611",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195612": {
+        "date": "195612",
+        "Illinois": "0",
+        "Missouri": "5"
+    },
+    "195701": {
+        "date": "195701",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "195702": {
+        "date": "195702",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195703": {
+        "date": "195703",
+        "Illinois": "8",
+        "Missouri": "0"
+    },
+    "195704": {
+        "date": "195704",
+        "Illinois": "8",
+        "Missouri": "8"
+    },
+    "195705": {
+        "date": "195705",
+        "Illinois": "10",
+        "Missouri": "45"
+    },
+    "195706": {
+        "date": "195706",
+        "Illinois": "14",
+        "Missouri": "29"
+    },
+    "195707": {
+        "date": "195707",
+        "Illinois": "4",
+        "Missouri": "2"
+    },
+    "195708": {
+        "date": "195708",
+        "Illinois": "4",
+        "Missouri": "5"
+    },
+    "195709": {
+        "date": "195709",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "195710": {
+        "date": "195710",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195711": {
+        "date": "195711",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195712": {
+        "date": "195712",
+        "Illinois": "25",
+        "Missouri": "9"
+    },
+    "195801": {
+        "date": "195801",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195802": {
+        "date": "195802",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195803": {
+        "date": "195803",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195804": {
+        "date": "195804",
+        "Illinois": "10",
+        "Missouri": "8"
+    },
+    "195805": {
+        "date": "195805",
+        "Illinois": "9",
+        "Missouri": "14"
+    },
+    "195806": {
+        "date": "195806",
+        "Illinois": "31",
+        "Missouri": "34"
+    },
+    "195807": {
+        "date": "195807",
+        "Illinois": "17",
+        "Missouri": "41"
+    },
+    "195808": {
+        "date": "195808",
+        "Illinois": "8",
+        "Missouri": "0"
+    },
+    "195809": {
+        "date": "195809",
+        "Illinois": "0",
+        "Missouri": "4"
+    },
+    "195810": {
+        "date": "195810",
+        "Illinois": "4",
+        "Missouri": "5"
+    },
+    "195811": {
+        "date": "195811",
+        "Illinois": "1",
+        "Missouri": "20"
+    },
+    "195812": {
+        "date": "195812",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195901": {
+        "date": "195901",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195902": {
+        "date": "195902",
+        "Illinois": "3",
+        "Missouri": "14"
+    },
+    "195903": {
+        "date": "195903",
+        "Illinois": "7",
+        "Missouri": "4"
+    },
+    "195904": {
+        "date": "195904",
+        "Illinois": "2",
+        "Missouri": "8"
+    },
+    "195905": {
+        "date": "195905",
+        "Illinois": "7",
+        "Missouri": "10"
+    },
+    "195906": {
+        "date": "195906",
+        "Illinois": "3",
+        "Missouri": "7"
+    },
+    "195907": {
+        "date": "195907",
+        "Illinois": "6",
+        "Missouri": "5"
+    },
+    "195908": {
+        "date": "195908",
+        "Illinois": "4",
+        "Missouri": "2"
+    },
+    "195909": {
+        "date": "195909",
+        "Illinois": "23",
+        "Missouri": "24"
+    },
+    "195910": {
+        "date": "195910",
+        "Illinois": "4",
+        "Missouri": "11"
+    },
+    "195911": {
+        "date": "195911",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "195912": {
+        "date": "195912",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196001": {
+        "date": "196001",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196002": {
+        "date": "196002",
+        "Illinois": "5",
+        "Missouri": "3"
+    },
+    "196003": {
+        "date": "196003",
+        "Illinois": "2",
+        "Missouri": "4"
+    },
+    "196004": {
+        "date": "196004",
+        "Illinois": "17",
+        "Missouri": "6"
+    },
+    "196005": {
+        "date": "196005",
+        "Illinois": "12",
+        "Missouri": "19"
+    },
+    "196006": {
+        "date": "196006",
+        "Illinois": "31",
+        "Missouri": "15"
+    },
+    "196007": {
+        "date": "196007",
+        "Illinois": "3",
+        "Missouri": "4"
+    },
+    "196008": {
+        "date": "196008",
+        "Illinois": "9",
+        "Missouri": "3"
+    },
+    "196009": {
+        "date": "196009",
+        "Illinois": "5",
+        "Missouri": "0"
+    },
+    "196010": {
+        "date": "196010",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "196011": {
+        "date": "196011",
+        "Illinois": "3",
+        "Missouri": "7"
+    },
+    "196012": {
+        "date": "196012",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "196101": {
+        "date": "196101",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196102": {
+        "date": "196102",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196103": {
+        "date": "196103",
+        "Illinois": "19",
+        "Missouri": "19"
+    },
+    "196104": {
+        "date": "196104",
+        "Illinois": "8",
+        "Missouri": "17"
+    },
+    "196105": {
+        "date": "196105",
+        "Illinois": "10",
+        "Missouri": "23"
+    },
+    "196106": {
+        "date": "196106",
+        "Illinois": "14",
+        "Missouri": "7"
+    },
+    "196107": {
+        "date": "196107",
+        "Illinois": "14",
+        "Missouri": "16"
+    },
+    "196108": {
+        "date": "196108",
+        "Illinois": "5",
+        "Missouri": "2"
+    },
+    "196109": {
+        "date": "196109",
+        "Illinois": "17",
+        "Missouri": "1"
+    },
+    "196110": {
+        "date": "196110",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "196111": {
+        "date": "196111",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "196112": {
+        "date": "196112",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196201": {
+        "date": "196201",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196202": {
+        "date": "196202",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "196203": {
+        "date": "196203",
+        "Illinois": "3",
+        "Missouri": "2"
+    },
+    "196204": {
+        "date": "196204",
+        "Illinois": "8",
+        "Missouri": "0"
+    },
+    "196205": {
+        "date": "196205",
+        "Illinois": "20",
+        "Missouri": "26"
+    },
+    "196206": {
+        "date": "196206",
+        "Illinois": "4",
+        "Missouri": "14"
+    },
+    "196207": {
+        "date": "196207",
+        "Illinois": "9",
+        "Missouri": "15"
+    },
+    "196208": {
+        "date": "196208",
+        "Illinois": "2",
+        "Missouri": "6"
+    },
+    "196209": {
+        "date": "196209",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "196210": {
+        "date": "196210",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196211": {
+        "date": "196211",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196212": {
+        "date": "196212",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196301": {
+        "date": "196301",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196302": {
+        "date": "196302",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196303": {
+        "date": "196303",
+        "Illinois": "3",
+        "Missouri": "8"
+    },
+    "196304": {
+        "date": "196304",
+        "Illinois": "19",
+        "Missouri": "11"
+    },
+    "196305": {
+        "date": "196305",
+        "Illinois": "0",
+        "Missouri": "14"
+    },
+    "196306": {
+        "date": "196306",
+        "Illinois": "10",
+        "Missouri": "10"
+    },
+    "196307": {
+        "date": "196307",
+        "Illinois": "8",
+        "Missouri": "2"
+    },
+    "196308": {
+        "date": "196308",
+        "Illinois": "2",
+        "Missouri": "2"
+    },
+    "196309": {
+        "date": "196309",
+        "Illinois": "1",
+        "Missouri": "3"
+    },
+    "196310": {
+        "date": "196310",
+        "Illinois": "1",
+        "Missouri": "1"
+    },
+    "196311": {
+        "date": "196311",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "196312": {
+        "date": "196312",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196401": {
+        "date": "196401",
+        "Illinois": "1",
+        "Missouri": "1"
+    },
+    "196402": {
+        "date": "196402",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196403": {
+        "date": "196403",
+        "Illinois": "4",
+        "Missouri": "6"
+    },
+    "196404": {
+        "date": "196404",
+        "Illinois": "13",
+        "Missouri": "25"
+    },
+    "196405": {
+        "date": "196405",
+        "Illinois": "7",
+        "Missouri": "4"
+    },
+    "196406": {
+        "date": "196406",
+        "Illinois": "12",
+        "Missouri": "27"
+    },
+    "196407": {
+        "date": "196407",
+        "Illinois": "6",
+        "Missouri": "13"
+    },
+    "196408": {
+        "date": "196408",
+        "Illinois": "0",
+        "Missouri": "8"
+    },
+    "196409": {
+        "date": "196409",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "196410": {
+        "date": "196410",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196411": {
+        "date": "196411",
+        "Illinois": "1",
+        "Missouri": "3"
+    },
+    "196412": {
+        "date": "196412",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196501": {
+        "date": "196501",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196502": {
+        "date": "196502",
+        "Illinois": "1",
+        "Missouri": "1"
+    },
+    "196503": {
+        "date": "196503",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "196504": {
+        "date": "196504",
+        "Illinois": "23",
+        "Missouri": "23"
+    },
+    "196505": {
+        "date": "196505",
+        "Illinois": "11",
+        "Missouri": "19"
+    },
+    "196506": {
+        "date": "196506",
+        "Illinois": "11",
+        "Missouri": "19"
+    },
+    "196507": {
+        "date": "196507",
+        "Illinois": "8",
+        "Missouri": "10"
+    },
+    "196508": {
+        "date": "196508",
+        "Illinois": "23",
+        "Missouri": "8"
+    },
+    "196509": {
+        "date": "196509",
+        "Illinois": "12",
+        "Missouri": "17"
+    },
+    "196510": {
+        "date": "196510",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196511": {
+        "date": "196511",
+        "Illinois": "15",
+        "Missouri": "7"
+    },
+    "196512": {
+        "date": "196512",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "196601": {
+        "date": "196601",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196602": {
+        "date": "196602",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196603": {
+        "date": "196603",
+        "Illinois": "4",
+        "Missouri": "9"
+    },
+    "196604": {
+        "date": "196604",
+        "Illinois": "8",
+        "Missouri": "11"
+    },
+    "196605": {
+        "date": "196605",
+        "Illinois": "11",
+        "Missouri": "33"
+    },
+    "196606": {
+        "date": "196606",
+        "Illinois": "12",
+        "Missouri": "8"
+    },
+    "196607": {
+        "date": "196607",
+        "Illinois": "23",
+        "Missouri": "6"
+    },
+    "196608": {
+        "date": "196608",
+        "Illinois": "2",
+        "Missouri": "3"
+    },
+    "196609": {
+        "date": "196609",
+        "Illinois": "0",
+        "Missouri": "4"
+    },
+    "196610": {
+        "date": "196610",
+        "Illinois": "4",
+        "Missouri": "11"
+    },
+    "196611": {
+        "date": "196611",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196612": {
+        "date": "196612",
+        "Illinois": "2",
+        "Missouri": "10"
+    },
+    "196701": {
+        "date": "196701",
+        "Illinois": "15",
+        "Missouri": "16"
+    },
+    "196702": {
+        "date": "196702",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196703": {
+        "date": "196703",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "196704": {
+        "date": "196704",
+        "Illinois": "29",
+        "Missouri": "29"
+    },
+    "196705": {
+        "date": "196705",
+        "Illinois": "9",
+        "Missouri": "8"
+    },
+    "196706": {
+        "date": "196706",
+        "Illinois": "13",
+        "Missouri": "19"
+    },
+    "196707": {
+        "date": "196707",
+        "Illinois": "10",
+        "Missouri": "15"
+    },
+    "196708": {
+        "date": "196708",
+        "Illinois": "4",
+        "Missouri": "6"
+    },
+    "196709": {
+        "date": "196709",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196710": {
+        "date": "196710",
+        "Illinois": "5",
+        "Missouri": "14"
+    },
+    "196711": {
+        "date": "196711",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196712": {
+        "date": "196712",
+        "Illinois": "5",
+        "Missouri": "12"
+    },
+    "196801": {
+        "date": "196801",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196802": {
+        "date": "196802",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196803": {
+        "date": "196803",
+        "Illinois": "1",
+        "Missouri": "2"
+    },
+    "196804": {
+        "date": "196804",
+        "Illinois": "6",
+        "Missouri": "22"
+    },
+    "196805": {
+        "date": "196805",
+        "Illinois": "9",
+        "Missouri": "20"
+    },
+    "196806": {
+        "date": "196806",
+        "Illinois": "16",
+        "Missouri": "15"
+    },
+    "196807": {
+        "date": "196807",
+        "Illinois": "5",
+        "Missouri": "15"
+    },
+    "196808": {
+        "date": "196808",
+        "Illinois": "12",
+        "Missouri": "9"
+    },
+    "196809": {
+        "date": "196809",
+        "Illinois": "1",
+        "Missouri": "4"
+    },
+    "196810": {
+        "date": "196810",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "196811": {
+        "date": "196811",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196812": {
+        "date": "196812",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "196901": {
+        "date": "196901",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196902": {
+        "date": "196902",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196903": {
+        "date": "196903",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196904": {
+        "date": "196904",
+        "Illinois": "3",
+        "Missouri": "12"
+    },
+    "196905": {
+        "date": "196905",
+        "Illinois": "3",
+        "Missouri": "5"
+    },
+    "196906": {
+        "date": "196906",
+        "Illinois": "21",
+        "Missouri": "56"
+    },
+    "196907": {
+        "date": "196907",
+        "Illinois": "16",
+        "Missouri": "40"
+    },
+    "196908": {
+        "date": "196908",
+        "Illinois": "3",
+        "Missouri": "5"
+    },
+    "196909": {
+        "date": "196909",
+        "Illinois": "4",
+        "Missouri": "6"
+    },
+    "196910": {
+        "date": "196910",
+        "Illinois": "13",
+        "Missouri": "6"
+    },
+    "196911": {
+        "date": "196911",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "196912": {
+        "date": "196912",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197001": {
+        "date": "197001",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "197002": {
+        "date": "197002",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197003": {
+        "date": "197003",
+        "Illinois": "2",
+        "Missouri": "3"
+    },
+    "197004": {
+        "date": "197004",
+        "Illinois": "13",
+        "Missouri": "31"
+    },
+    "197005": {
+        "date": "197005",
+        "Illinois": "14",
+        "Missouri": "17"
+    },
+    "197006": {
+        "date": "197006",
+        "Illinois": "26",
+        "Missouri": "43"
+    },
+    "197007": {
+        "date": "197007",
+        "Illinois": "18",
+        "Missouri": "11"
+    },
+    "197008": {
+        "date": "197008",
+        "Illinois": "1",
+        "Missouri": "9"
+    },
+    "197009": {
+        "date": "197009",
+        "Illinois": "7",
+        "Missouri": "27"
+    },
+    "197010": {
+        "date": "197010",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "197011": {
+        "date": "197011",
+        "Illinois": "1",
+        "Missouri": "1"
+    },
+    "197012": {
+        "date": "197012",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197101": {
+        "date": "197101",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197102": {
+        "date": "197102",
+        "Illinois": "9",
+        "Missouri": "5"
+    },
+    "197103": {
+        "date": "197103",
+        "Illinois": "8",
+        "Missouri": "10"
+    },
+    "197104": {
+        "date": "197104",
+        "Illinois": "4",
+        "Missouri": "11"
+    },
+    "197105": {
+        "date": "197105",
+        "Illinois": "5",
+        "Missouri": "30"
+    },
+    "197106": {
+        "date": "197106",
+        "Illinois": "8",
+        "Missouri": "24"
+    },
+    "197107": {
+        "date": "197107",
+        "Illinois": "6",
+        "Missouri": "11"
+    },
+    "197108": {
+        "date": "197108",
+        "Illinois": "6",
+        "Missouri": "1"
+    },
+    "197109": {
+        "date": "197109",
+        "Illinois": "1",
+        "Missouri": "7"
+    },
+    "197110": {
+        "date": "197110",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197111": {
+        "date": "197111",
+        "Illinois": "2",
+        "Missouri": "3"
+    },
+    "197112": {
+        "date": "197112",
+        "Illinois": "10",
+        "Missouri": "27"
+    },
+    "197201": {
+        "date": "197201",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197202": {
+        "date": "197202",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197203": {
+        "date": "197203",
+        "Illinois": "1",
+        "Missouri": "5"
+    },
+    "197204": {
+        "date": "197204",
+        "Illinois": "30",
+        "Missouri": "21"
+    },
+    "197205": {
+        "date": "197205",
+        "Illinois": "2",
+        "Missouri": "4"
+    },
+    "197206": {
+        "date": "197206",
+        "Illinois": "9",
+        "Missouri": "1"
+    },
+    "197207": {
+        "date": "197207",
+        "Illinois": "12",
+        "Missouri": "8"
+    },
+    "197208": {
+        "date": "197208",
+        "Illinois": "5",
+        "Missouri": "8"
+    },
+    "197209": {
+        "date": "197209",
+        "Illinois": "9",
+        "Missouri": "10"
+    },
+    "197210": {
+        "date": "197210",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197211": {
+        "date": "197211",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197212": {
+        "date": "197212",
+        "Illinois": "0",
+        "Missouri": "5"
+    },
+    "197301": {
+        "date": "197301",
+        "Illinois": "1",
+        "Missouri": "3"
+    },
+    "197302": {
+        "date": "197302",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197303": {
+        "date": "197303",
+        "Illinois": "9",
+        "Missouri": "7"
+    },
+    "197304": {
+        "date": "197304",
+        "Illinois": "13",
+        "Missouri": "41"
+    },
+    "197305": {
+        "date": "197305",
+        "Illinois": "19",
+        "Missouri": "49"
+    },
+    "197306": {
+        "date": "197306",
+        "Illinois": "56",
+        "Missouri": "51"
+    },
+    "197307": {
+        "date": "197307",
+        "Illinois": "11",
+        "Missouri": "30"
+    },
+    "197308": {
+        "date": "197308",
+        "Illinois": "10",
+        "Missouri": "17"
+    },
+    "197309": {
+        "date": "197309",
+        "Illinois": "8",
+        "Missouri": "10"
+    },
+    "197310": {
+        "date": "197310",
+        "Illinois": "2",
+        "Missouri": "5"
+    },
+    "197311": {
+        "date": "197311",
+        "Illinois": "5",
+        "Missouri": "13"
+    },
+    "197312": {
+        "date": "197312",
+        "Illinois": "9",
+        "Missouri": "19"
+    },
+    "197401": {
+        "date": "197401",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197402": {
+        "date": "197402",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197403": {
+        "date": "197403",
+        "Illinois": "33",
+        "Missouri": "8"
+    },
+    "197404": {
+        "date": "197404",
+        "Illinois": "37",
+        "Missouri": "18"
+    },
+    "197405": {
+        "date": "197405",
+        "Illinois": "26",
+        "Missouri": "32"
+    },
+    "197406": {
+        "date": "197406",
+        "Illinois": "172",
+        "Missouri": "51"
+    },
+    "197407": {
+        "date": "197407",
+        "Illinois": "23",
+        "Missouri": "9"
+    },
+    "197408": {
+        "date": "197408",
+        "Illinois": "37",
+        "Missouri": "22"
+    },
+    "197409": {
+        "date": "197409",
+        "Illinois": "16",
+        "Missouri": "7"
+    },
+    "197410": {
+        "date": "197410",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "197411": {
+        "date": "197411",
+        "Illinois": "1",
+        "Missouri": "6"
+    },
+    "197412": {
+        "date": "197412",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197501": {
+        "date": "197501",
+        "Illinois": "4",
+        "Missouri": "3"
+    },
+    "197502": {
+        "date": "197502",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "197503": {
+        "date": "197503",
+        "Illinois": "9",
+        "Missouri": "8"
+    },
+    "197504": {
+        "date": "197504",
+        "Illinois": "37",
+        "Missouri": "27"
+    },
+    "197505": {
+        "date": "197505",
+        "Illinois": "43",
+        "Missouri": "23"
+    },
+    "197506": {
+        "date": "197506",
+        "Illinois": "34",
+        "Missouri": "34"
+    },
+    "197507": {
+        "date": "197507",
+        "Illinois": "26",
+        "Missouri": "14"
+    },
+    "197508": {
+        "date": "197508",
+        "Illinois": "10",
+        "Missouri": "8"
+    },
+    "197509": {
+        "date": "197509",
+        "Illinois": "0",
+        "Missouri": "7"
+    },
+    "197510": {
+        "date": "197510",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "197511": {
+        "date": "197511",
+        "Illinois": "43",
+        "Missouri": "20"
+    },
+    "197512": {
+        "date": "197512",
+        "Illinois": "6",
+        "Missouri": "4"
+    },
+    "197601": {
+        "date": "197601",
+        "Illinois": "5",
+        "Missouri": "2"
+    },
+    "197602": {
+        "date": "197602",
+        "Illinois": "10",
+        "Missouri": "13"
+    },
+    "197603": {
+        "date": "197603",
+        "Illinois": "56",
+        "Missouri": "25"
+    },
+    "197604": {
+        "date": "197604",
+        "Illinois": "9",
+        "Missouri": "3"
+    },
+    "197605": {
+        "date": "197605",
+        "Illinois": "7",
+        "Missouri": "3"
+    },
+    "197606": {
+        "date": "197606",
+        "Illinois": "18",
+        "Missouri": "4"
+    },
+    "197607": {
+        "date": "197607",
+        "Illinois": "14",
+        "Missouri": "7"
+    },
+    "197608": {
+        "date": "197608",
+        "Illinois": "5",
+        "Missouri": "19"
+    },
+    "197609": {
+        "date": "197609",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197610": {
+        "date": "197610",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197611": {
+        "date": "197611",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197612": {
+        "date": "197612",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197701": {
+        "date": "197701",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197702": {
+        "date": "197702",
+        "Illinois": "5",
+        "Missouri": "4"
+    },
+    "197703": {
+        "date": "197703",
+        "Illinois": "7",
+        "Missouri": "3"
+    },
+    "197704": {
+        "date": "197704",
+        "Illinois": "2",
+        "Missouri": "1"
+    },
+    "197705": {
+        "date": "197705",
+        "Illinois": "29",
+        "Missouri": "40"
+    },
+    "197706": {
+        "date": "197706",
+        "Illinois": "25",
+        "Missouri": "21"
+    },
+    "197707": {
+        "date": "197707",
+        "Illinois": "19",
+        "Missouri": "12"
+    },
+    "197708": {
+        "date": "197708",
+        "Illinois": "30",
+        "Missouri": "8"
+    },
+    "197709": {
+        "date": "197709",
+        "Illinois": "6",
+        "Missouri": "15"
+    },
+    "197710": {
+        "date": "197710",
+        "Illinois": "2",
+        "Missouri": "1"
+    },
+    "197711": {
+        "date": "197711",
+        "Illinois": "0",
+        "Missouri": "12"
+    },
+    "197712": {
+        "date": "197712",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "197801": {
+        "date": "197801",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197802": {
+        "date": "197802",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197803": {
+        "date": "197803",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197804": {
+        "date": "197804",
+        "Illinois": "6",
+        "Missouri": "19"
+    },
+    "197805": {
+        "date": "197805",
+        "Illinois": "8",
+        "Missouri": "31"
+    },
+    "197806": {
+        "date": "197806",
+        "Illinois": "21",
+        "Missouri": "18"
+    },
+    "197807": {
+        "date": "197807",
+        "Illinois": "19",
+        "Missouri": "43"
+    },
+    "197808": {
+        "date": "197808",
+        "Illinois": "19",
+        "Missouri": "15"
+    },
+    "197809": {
+        "date": "197809",
+        "Illinois": "9",
+        "Missouri": "2"
+    },
+    "197810": {
+        "date": "197810",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197811": {
+        "date": "197811",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197812": {
+        "date": "197812",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197901": {
+        "date": "197901",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197902": {
+        "date": "197902",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "197903": {
+        "date": "197903",
+        "Illinois": "3",
+        "Missouri": "4"
+    },
+    "197904": {
+        "date": "197904",
+        "Illinois": "6",
+        "Missouri": "18"
+    },
+    "197905": {
+        "date": "197905",
+        "Illinois": "2",
+        "Missouri": "10"
+    },
+    "197906": {
+        "date": "197906",
+        "Illinois": "7",
+        "Missouri": "21"
+    },
+    "197907": {
+        "date": "197907",
+        "Illinois": "14",
+        "Missouri": "25"
+    },
+    "197908": {
+        "date": "197908",
+        "Illinois": "14",
+        "Missouri": "5"
+    },
+    "197909": {
+        "date": "197909",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "197910": {
+        "date": "197910",
+        "Illinois": "4",
+        "Missouri": "17"
+    },
+    "197911": {
+        "date": "197911",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "197912": {
+        "date": "197912",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198001": {
+        "date": "198001",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198002": {
+        "date": "198002",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "198003": {
+        "date": "198003",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198004": {
+        "date": "198004",
+        "Illinois": "10",
+        "Missouri": "9"
+    },
+    "198005": {
+        "date": "198005",
+        "Illinois": "12",
+        "Missouri": "27"
+    },
+    "198006": {
+        "date": "198006",
+        "Illinois": "26",
+        "Missouri": "14"
+    },
+    "198007": {
+        "date": "198007",
+        "Illinois": "69",
+        "Missouri": "14"
+    },
+    "198008": {
+        "date": "198008",
+        "Illinois": "43",
+        "Missouri": "46"
+    },
+    "198009": {
+        "date": "198009",
+        "Illinois": "45",
+        "Missouri": "31"
+    },
+    "198010": {
+        "date": "198010",
+        "Illinois": "0",
+        "Missouri": "5"
+    },
+    "198011": {
+        "date": "198011",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198012": {
+        "date": "198012",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198101": {
+        "date": "198101",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198102": {
+        "date": "198102",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198103": {
+        "date": "198103",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "198104": {
+        "date": "198104",
+        "Illinois": "60",
+        "Missouri": "72"
+    },
+    "198105": {
+        "date": "198105",
+        "Illinois": "2",
+        "Missouri": "18"
+    },
+    "198106": {
+        "date": "198106",
+        "Illinois": "36",
+        "Missouri": "36"
+    },
+    "198107": {
+        "date": "198107",
+        "Illinois": "37",
+        "Missouri": "50"
+    },
+    "198108": {
+        "date": "198108",
+        "Illinois": "5",
+        "Missouri": "9"
+    },
+    "198109": {
+        "date": "198109",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "198110": {
+        "date": "198110",
+        "Illinois": "6",
+        "Missouri": "6"
+    },
+    "198111": {
+        "date": "198111",
+        "Illinois": "1",
+        "Missouri": "1"
+    },
+    "198112": {
+        "date": "198112",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198201": {
+        "date": "198201",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198202": {
+        "date": "198202",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198203": {
+        "date": "198203",
+        "Illinois": "9",
+        "Missouri": "33"
+    },
+    "198204": {
+        "date": "198204",
+        "Illinois": "35",
+        "Missouri": "59"
+    },
+    "198205": {
+        "date": "198205",
+        "Illinois": "45",
+        "Missouri": "65"
+    },
+    "198206": {
+        "date": "198206",
+        "Illinois": "43",
+        "Missouri": "84"
+    },
+    "198207": {
+        "date": "198207",
+        "Illinois": "36",
+        "Missouri": "8"
+    },
+    "198208": {
+        "date": "198208",
+        "Illinois": "41",
+        "Missouri": "6"
+    },
+    "198209": {
+        "date": "198209",
+        "Illinois": "3",
+        "Missouri": "16"
+    },
+    "198210": {
+        "date": "198210",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "198211": {
+        "date": "198211",
+        "Illinois": "1",
+        "Missouri": "2"
+    },
+    "198212": {
+        "date": "198212",
+        "Illinois": "32",
+        "Missouri": "74"
+    },
+    "198301": {
+        "date": "198301",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198302": {
+        "date": "198302",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198303": {
+        "date": "198303",
+        "Illinois": "6",
+        "Missouri": "3"
+    },
+    "198304": {
+        "date": "198304",
+        "Illinois": "5",
+        "Missouri": "32"
+    },
+    "198305": {
+        "date": "198305",
+        "Illinois": "31",
+        "Missouri": "37"
+    },
+    "198306": {
+        "date": "198306",
+        "Illinois": "10",
+        "Missouri": "17"
+    },
+    "198307": {
+        "date": "198307",
+        "Illinois": "39",
+        "Missouri": "9"
+    },
+    "198308": {
+        "date": "198308",
+        "Illinois": "28",
+        "Missouri": "22"
+    },
+    "198309": {
+        "date": "198309",
+        "Illinois": "13",
+        "Missouri": "2"
+    },
+    "198310": {
+        "date": "198310",
+        "Illinois": "1",
+        "Missouri": "14"
+    },
+    "198311": {
+        "date": "198311",
+        "Illinois": "0",
+        "Missouri": "5"
+    },
+    "198312": {
+        "date": "198312",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198401": {
+        "date": "198401",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198402": {
+        "date": "198402",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "198403": {
+        "date": "198403",
+        "Illinois": "30",
+        "Missouri": "37"
+    },
+    "198404": {
+        "date": "198404",
+        "Illinois": "56",
+        "Missouri": "48"
+    },
+    "198405": {
+        "date": "198405",
+        "Illinois": "11",
+        "Missouri": "11"
+    },
+    "198406": {
+        "date": "198406",
+        "Illinois": "16",
+        "Missouri": "17"
+    },
+    "198407": {
+        "date": "198407",
+        "Illinois": "15",
+        "Missouri": "10"
+    },
+    "198408": {
+        "date": "198408",
+        "Illinois": "11",
+        "Missouri": "5"
+    },
+    "198409": {
+        "date": "198409",
+        "Illinois": "7",
+        "Missouri": "13"
+    },
+    "198410": {
+        "date": "198410",
+        "Illinois": "0",
+        "Missouri": "33"
+    },
+    "198411": {
+        "date": "198411",
+        "Illinois": "12",
+        "Missouri": "25"
+    },
+    "198412": {
+        "date": "198412",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198501": {
+        "date": "198501",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198502": {
+        "date": "198502",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198503": {
+        "date": "198503",
+        "Illinois": "4",
+        "Missouri": "2"
+    },
+    "198504": {
+        "date": "198504",
+        "Illinois": "16",
+        "Missouri": "22"
+    },
+    "198505": {
+        "date": "198505",
+        "Illinois": "24",
+        "Missouri": "22"
+    },
+    "198506": {
+        "date": "198506",
+        "Illinois": "13",
+        "Missouri": "35"
+    },
+    "198507": {
+        "date": "198507",
+        "Illinois": "22",
+        "Missouri": "10"
+    },
+    "198508": {
+        "date": "198508",
+        "Illinois": "3",
+        "Missouri": "14"
+    },
+    "198509": {
+        "date": "198509",
+        "Illinois": "2",
+        "Missouri": "2"
+    },
+    "198510": {
+        "date": "198510",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198511": {
+        "date": "198511",
+        "Illinois": "8",
+        "Missouri": "7"
+    },
+    "198512": {
+        "date": "198512",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198601": {
+        "date": "198601",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198602": {
+        "date": "198602",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198603": {
+        "date": "198603",
+        "Illinois": "4",
+        "Missouri": "0"
+    },
+    "198604": {
+        "date": "198604",
+        "Illinois": "6",
+        "Missouri": "7"
+    },
+    "198605": {
+        "date": "198605",
+        "Illinois": "21",
+        "Missouri": "18"
+    },
+    "198606": {
+        "date": "198606",
+        "Illinois": "7",
+        "Missouri": "18"
+    },
+    "198607": {
+        "date": "198607",
+        "Illinois": "72",
+        "Missouri": "48"
+    },
+    "198608": {
+        "date": "198608",
+        "Illinois": "0",
+        "Missouri": "23"
+    },
+    "198609": {
+        "date": "198609",
+        "Illinois": "32",
+        "Missouri": "6"
+    },
+    "198610": {
+        "date": "198610",
+        "Illinois": "0",
+        "Missouri": "5"
+    },
+    "198611": {
+        "date": "198611",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198612": {
+        "date": "198612",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198701": {
+        "date": "198701",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "198702": {
+        "date": "198702",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198703": {
+        "date": "198703",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198704": {
+        "date": "198704",
+        "Illinois": "6",
+        "Missouri": "6"
+    },
+    "198705": {
+        "date": "198705",
+        "Illinois": "45",
+        "Missouri": "13"
+    },
+    "198706": {
+        "date": "198706",
+        "Illinois": "32",
+        "Missouri": "43"
+    },
+    "198707": {
+        "date": "198707",
+        "Illinois": "51",
+        "Missouri": "51"
+    },
+    "198708": {
+        "date": "198708",
+        "Illinois": "43",
+        "Missouri": "39"
+    },
+    "198709": {
+        "date": "198709",
+        "Illinois": "0",
+        "Missouri": "16"
+    },
+    "198710": {
+        "date": "198710",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198711": {
+        "date": "198711",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198712": {
+        "date": "198712",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "198801": {
+        "date": "198801",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198802": {
+        "date": "198802",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198803": {
+        "date": "198803",
+        "Illinois": "6",
+        "Missouri": "12"
+    },
+    "198804": {
+        "date": "198804",
+        "Illinois": "33",
+        "Missouri": "12"
+    },
+    "198805": {
+        "date": "198805",
+        "Illinois": "57",
+        "Missouri": "20"
+    },
+    "198806": {
+        "date": "198806",
+        "Illinois": "7",
+        "Missouri": "8"
+    },
+    "198807": {
+        "date": "198807",
+        "Illinois": "6",
+        "Missouri": "14"
+    },
+    "198808": {
+        "date": "198808",
+        "Illinois": "10",
+        "Missouri": "11"
+    },
+    "198809": {
+        "date": "198809",
+        "Illinois": "8",
+        "Missouri": "0"
+    },
+    "198810": {
+        "date": "198810",
+        "Illinois": "6",
+        "Missouri": "3"
+    },
+    "198811": {
+        "date": "198811",
+        "Illinois": "33",
+        "Missouri": "56"
+    },
+    "198812": {
+        "date": "198812",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198901": {
+        "date": "198901",
+        "Illinois": "11",
+        "Missouri": "0"
+    },
+    "198902": {
+        "date": "198902",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "198903": {
+        "date": "198903",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "198904": {
+        "date": "198904",
+        "Illinois": "20",
+        "Missouri": "17"
+    },
+    "198905": {
+        "date": "198905",
+        "Illinois": "23",
+        "Missouri": "30"
+    },
+    "198906": {
+        "date": "198906",
+        "Illinois": "8",
+        "Missouri": "5"
+    },
+    "198907": {
+        "date": "198907",
+        "Illinois": "10",
+        "Missouri": "2"
+    },
+    "198908": {
+        "date": "198908",
+        "Illinois": "13",
+        "Missouri": "14"
+    },
+    "198909": {
+        "date": "198909",
+        "Illinois": "3",
+        "Missouri": "0"
+    },
+    "198910": {
+        "date": "198910",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "198911": {
+        "date": "198911",
+        "Illinois": "5",
+        "Missouri": "2"
+    },
+    "198912": {
+        "date": "198912",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199001": {
+        "date": "199001",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "199002": {
+        "date": "199002",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "199003": {
+        "date": "199003",
+        "Illinois": "7",
+        "Missouri": "13"
+    },
+    "199004": {
+        "date": "199004",
+        "Illinois": "7",
+        "Missouri": "0"
+    },
+    "199005": {
+        "date": "199005",
+        "Illinois": "56",
+        "Missouri": "28"
+    },
+    "199006": {
+        "date": "199006",
+        "Illinois": "107",
+        "Missouri": "38"
+    },
+    "199007": {
+        "date": "199007",
+        "Illinois": "11",
+        "Missouri": "6"
+    },
+    "199008": {
+        "date": "199008",
+        "Illinois": "12",
+        "Missouri": "1"
+    },
+    "199009": {
+        "date": "199009",
+        "Illinois": "6",
+        "Missouri": "0"
+    },
+    "199010": {
+        "date": "199010",
+        "Illinois": "13",
+        "Missouri": "5"
+    },
+    "199011": {
+        "date": "199011",
+        "Illinois": "12",
+        "Missouri": "11"
+    },
+    "199012": {
+        "date": "199012",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "199101": {
+        "date": "199101",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199102": {
+        "date": "199102",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "199103": {
+        "date": "199103",
+        "Illinois": "27",
+        "Missouri": "14"
+    },
+    "199104": {
+        "date": "199104",
+        "Illinois": "11",
+        "Missouri": "17"
+    },
+    "199105": {
+        "date": "199105",
+        "Illinois": "49",
+        "Missouri": "26"
+    },
+    "199106": {
+        "date": "199106",
+        "Illinois": "27",
+        "Missouri": "24"
+    },
+    "199107": {
+        "date": "199107",
+        "Illinois": "23",
+        "Missouri": "23"
+    },
+    "199108": {
+        "date": "199108",
+        "Illinois": "20",
+        "Missouri": "14"
+    },
+    "199109": {
+        "date": "199109",
+        "Illinois": "12",
+        "Missouri": "5"
+    },
+    "199110": {
+        "date": "199110",
+        "Illinois": "27",
+        "Missouri": "9"
+    },
+    "199111": {
+        "date": "199111",
+        "Illinois": "22",
+        "Missouri": "13"
+    },
+    "199112": {
+        "date": "199112",
+        "Illinois": "4",
+        "Missouri": "0"
+    },
+    "199201": {
+        "date": "199201",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199202": {
+        "date": "199202",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "199203": {
+        "date": "199203",
+        "Illinois": "1",
+        "Missouri": "3"
+    },
+    "199204": {
+        "date": "199204",
+        "Illinois": "16",
+        "Missouri": "9"
+    },
+    "199205": {
+        "date": "199205",
+        "Illinois": "6",
+        "Missouri": "3"
+    },
+    "199206": {
+        "date": "199206",
+        "Illinois": "78",
+        "Missouri": "20"
+    },
+    "199207": {
+        "date": "199207",
+        "Illinois": "138",
+        "Missouri": "99"
+    },
+    "199208": {
+        "date": "199208",
+        "Illinois": "2",
+        "Missouri": "19"
+    },
+    "199209": {
+        "date": "199209",
+        "Illinois": "53",
+        "Missouri": "40"
+    },
+    "199210": {
+        "date": "199210",
+        "Illinois": "0",
+        "Missouri": "5"
+    },
+    "199211": {
+        "date": "199211",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199212": {
+        "date": "199212",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199301": {
+        "date": "199301",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "199302": {
+        "date": "199302",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199303": {
+        "date": "199303",
+        "Illinois": "0",
+        "Missouri": "8"
+    },
+    "199304": {
+        "date": "199304",
+        "Illinois": "7",
+        "Missouri": "34"
+    },
+    "199305": {
+        "date": "199305",
+        "Illinois": "9",
+        "Missouri": "16"
+    },
+    "199306": {
+        "date": "199306",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199307": {
+        "date": "199307",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199308": {
+        "date": "199308",
+        "Illinois": "65",
+        "Missouri": "18"
+    },
+    "199309": {
+        "date": "199309",
+        "Illinois": "8",
+        "Missouri": "37"
+    },
+    "199310": {
+        "date": "199310",
+        "Illinois": "0",
+        "Missouri": "8"
+    },
+    "199311": {
+        "date": "199311",
+        "Illinois": "2",
+        "Missouri": "4"
+    },
+    "199312": {
+        "date": "199312",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199401": {
+        "date": "199401",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199402": {
+        "date": "199402",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199403": {
+        "date": "199403",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199404": {
+        "date": "199404",
+        "Illinois": "94",
+        "Missouri": "130"
+    },
+    "199405": {
+        "date": "199405",
+        "Illinois": "9",
+        "Missouri": "6"
+    },
+    "199406": {
+        "date": "199406",
+        "Illinois": "39",
+        "Missouri": "117"
+    },
+    "199407": {
+        "date": "199407",
+        "Illinois": "47",
+        "Missouri": "23"
+    },
+    "199408": {
+        "date": "199408",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199409": {
+        "date": "199409",
+        "Illinois": "1",
+        "Missouri": "3"
+    },
+    "199410": {
+        "date": "199410",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199411": {
+        "date": "199411",
+        "Illinois": "15",
+        "Missouri": "11"
+    },
+    "199412": {
+        "date": "199412",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199501": {
+        "date": "199501",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199502": {
+        "date": "199502",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "199503": {
+        "date": "199503",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "199504": {
+        "date": "199504",
+        "Illinois": "18",
+        "Missouri": "44"
+    },
+    "199505": {
+        "date": "199505",
+        "Illinois": "135",
+        "Missouri": "140"
+    },
+    "199506": {
+        "date": "199506",
+        "Illinois": "115",
+        "Missouri": "117"
+    },
+    "199507": {
+        "date": "199507",
+        "Illinois": "20",
+        "Missouri": "119"
+    },
+    "199508": {
+        "date": "199508",
+        "Illinois": "26",
+        "Missouri": "9"
+    },
+    "199509": {
+        "date": "199509",
+        "Illinois": "0",
+        "Missouri": "12"
+    },
+    "199510": {
+        "date": "199510",
+        "Illinois": "0",
+        "Missouri": "4"
+    },
+    "199511": {
+        "date": "199511",
+        "Illinois": "2",
+        "Missouri": "12"
+    },
+    "199512": {
+        "date": "199512",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199601": {
+        "date": "199601",
+        "Illinois": "35",
+        "Missouri": "19"
+    },
+    "199602": {
+        "date": "199602",
+        "Illinois": "3",
+        "Missouri": "5"
+    },
+    "199603": {
+        "date": "199603",
+        "Illinois": "7",
+        "Missouri": "18"
+    },
+    "199604": {
+        "date": "199604",
+        "Illinois": "93",
+        "Missouri": "45"
+    },
+    "199605": {
+        "date": "199605",
+        "Illinois": "55",
+        "Missouri": "88"
+    },
+    "199606": {
+        "date": "199606",
+        "Illinois": "54",
+        "Missouri": "44"
+    },
+    "199607": {
+        "date": "199607",
+        "Illinois": "55",
+        "Missouri": "80"
+    },
+    "199608": {
+        "date": "199608",
+        "Illinois": "9",
+        "Missouri": "13"
+    },
+    "199609": {
+        "date": "199609",
+        "Illinois": "7",
+        "Missouri": "16"
+    },
+    "199610": {
+        "date": "199610",
+        "Illinois": "69",
+        "Missouri": "10"
+    },
+    "199611": {
+        "date": "199611",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199612": {
+        "date": "199612",
+        "Illinois": "2",
+        "Missouri": "9"
+    },
+    "199701": {
+        "date": "199701",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "199702": {
+        "date": "199702",
+        "Illinois": "1",
+        "Missouri": "15"
+    },
+    "199703": {
+        "date": "199703",
+        "Illinois": "4",
+        "Missouri": "4"
+    },
+    "199704": {
+        "date": "199704",
+        "Illinois": "106",
+        "Missouri": "20"
+    },
+    "199705": {
+        "date": "199705",
+        "Illinois": "26",
+        "Missouri": "33"
+    },
+    "199706": {
+        "date": "199706",
+        "Illinois": "50",
+        "Missouri": "39"
+    },
+    "199707": {
+        "date": "199707",
+        "Illinois": "83",
+        "Missouri": "59"
+    },
+    "199708": {
+        "date": "199708",
+        "Illinois": "49",
+        "Missouri": "44"
+    },
+    "199709": {
+        "date": "199709",
+        "Illinois": "7",
+        "Missouri": "1"
+    },
+    "199710": {
+        "date": "199710",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199711": {
+        "date": "199711",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199712": {
+        "date": "199712",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199801": {
+        "date": "199801",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199802": {
+        "date": "199802",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199803": {
+        "date": "199803",
+        "Illinois": "41",
+        "Missouri": "44"
+    },
+    "199804": {
+        "date": "199804",
+        "Illinois": "61",
+        "Missouri": "24"
+    },
+    "199805": {
+        "date": "199805",
+        "Illinois": "123",
+        "Missouri": "77"
+    },
+    "199806": {
+        "date": "199806",
+        "Illinois": "304",
+        "Missouri": "173"
+    },
+    "199807": {
+        "date": "199807",
+        "Illinois": "59",
+        "Missouri": "34"
+    },
+    "199808": {
+        "date": "199808",
+        "Illinois": "21",
+        "Missouri": "13"
+    },
+    "199809": {
+        "date": "199809",
+        "Illinois": "7",
+        "Missouri": "10"
+    },
+    "199810": {
+        "date": "199810",
+        "Illinois": "4",
+        "Missouri": "10"
+    },
+    "199811": {
+        "date": "199811",
+        "Illinois": "63",
+        "Missouri": "71"
+    },
+    "199812": {
+        "date": "199812",
+        "Illinois": "6",
+        "Missouri": "2"
+    },
+    "199901": {
+        "date": "199901",
+        "Illinois": "18",
+        "Missouri": "29"
+    },
+    "199902": {
+        "date": "199902",
+        "Illinois": "45",
+        "Missouri": "42"
+    },
+    "199903": {
+        "date": "199903",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "199904": {
+        "date": "199904",
+        "Illinois": "61",
+        "Missouri": "83"
+    },
+    "199905": {
+        "date": "199905",
+        "Illinois": "59",
+        "Missouri": "42"
+    },
+    "199906": {
+        "date": "199906",
+        "Illinois": "189",
+        "Missouri": "80"
+    },
+    "199907": {
+        "date": "199907",
+        "Illinois": "32",
+        "Missouri": "44"
+    },
+    "199908": {
+        "date": "199908",
+        "Illinois": "45",
+        "Missouri": "51"
+    },
+    "199909": {
+        "date": "199909",
+        "Illinois": "1",
+        "Missouri": "4"
+    },
+    "199910": {
+        "date": "199910",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "199911": {
+        "date": "199911",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "199912": {
+        "date": "199912",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "200001": {
+        "date": "200001",
+        "Illinois": "8",
+        "Missouri": "17"
+    },
+    "200002": {
+        "date": "200002",
+        "Illinois": "9",
+        "Missouri": "21"
+    },
+    "200003": {
+        "date": "200003",
+        "Illinois": "3",
+        "Missouri": "35"
+    },
+    "200004": {
+        "date": "200004",
+        "Illinois": "60",
+        "Missouri": "73"
+    },
+    "200005": {
+        "date": "200005",
+        "Illinois": "136",
+        "Missouri": "117"
+    },
+    "200006": {
+        "date": "200006",
+        "Illinois": "121",
+        "Missouri": "97"
+    },
+    "200007": {
+        "date": "200007",
+        "Illinois": "44",
+        "Missouri": "55"
+    },
+    "200008": {
+        "date": "200008",
+        "Illinois": "116",
+        "Missouri": "136"
+    },
+    "200009": {
+        "date": "200009",
+        "Illinois": "68",
+        "Missouri": "53"
+    },
+    "200010": {
+        "date": "200010",
+        "Illinois": "23",
+        "Missouri": "15"
+    },
+    "200011": {
+        "date": "200011",
+        "Illinois": "0",
+        "Missouri": "5"
+    },
+    "200012": {
+        "date": "200012",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200101": {
+        "date": "200101",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200102": {
+        "date": "200102",
+        "Illinois": "16",
+        "Missouri": "40"
+    },
+    "200103": {
+        "date": "200103",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200104": {
+        "date": "200104",
+        "Illinois": "20",
+        "Missouri": "92"
+    },
+    "200105": {
+        "date": "200105",
+        "Illinois": "37",
+        "Missouri": "62"
+    },
+    "200106": {
+        "date": "200106",
+        "Illinois": "81",
+        "Missouri": "80"
+    },
+    "200107": {
+        "date": "200107",
+        "Illinois": "101",
+        "Missouri": "75"
+    },
+    "200108": {
+        "date": "200108",
+        "Illinois": "120",
+        "Missouri": "50"
+    },
+    "200109": {
+        "date": "200109",
+        "Illinois": "27",
+        "Missouri": "63"
+    },
+    "200110": {
+        "date": "200110",
+        "Illinois": "74",
+        "Missouri": "52"
+    },
+    "200111": {
+        "date": "200111",
+        "Illinois": "0",
+        "Missouri": "6"
+    },
+    "200112": {
+        "date": "200112",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "200201": {
+        "date": "200201",
+        "Illinois": "0",
+        "Missouri": "6"
+    },
+    "200202": {
+        "date": "200202",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200203": {
+        "date": "200203",
+        "Illinois": "15",
+        "Missouri": "41"
+    },
+    "200204": {
+        "date": "200204",
+        "Illinois": "55",
+        "Missouri": "50"
+    },
+    "200205": {
+        "date": "200205",
+        "Illinois": "80",
+        "Missouri": "136"
+    },
+    "200206": {
+        "date": "200206",
+        "Illinois": "89",
+        "Missouri": "32"
+    },
+    "200207": {
+        "date": "200207",
+        "Illinois": "55",
+        "Missouri": "114"
+    },
+    "200208": {
+        "date": "200208",
+        "Illinois": "13",
+        "Missouri": "35"
+    },
+    "200209": {
+        "date": "200209",
+        "Illinois": "2",
+        "Missouri": "2"
+    },
+    "200210": {
+        "date": "200210",
+        "Illinois": "0",
+        "Missouri": "6"
+    },
+    "200211": {
+        "date": "200211",
+        "Illinois": "9",
+        "Missouri": "1"
+    },
+    "200212": {
+        "date": "200212",
+        "Illinois": "6",
+        "Missouri": "23"
+    },
+    "200301": {
+        "date": "200301",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200302": {
+        "date": "200302",
+        "Illinois": "5",
+        "Missouri": "1"
+    },
+    "200303": {
+        "date": "200303",
+        "Illinois": "2",
+        "Missouri": "13"
+    },
+    "200304": {
+        "date": "200304",
+        "Illinois": "39",
+        "Missouri": "25"
+    },
+    "200305": {
+        "date": "200305",
+        "Illinois": "192",
+        "Missouri": "232"
+    },
+    "200306": {
+        "date": "200306",
+        "Illinois": "79",
+        "Missouri": "66"
+    },
+    "200307": {
+        "date": "200307",
+        "Illinois": "207",
+        "Missouri": "115"
+    },
+    "200308": {
+        "date": "200308",
+        "Illinois": "47",
+        "Missouri": "121"
+    },
+    "200309": {
+        "date": "200309",
+        "Illinois": "19",
+        "Missouri": "29"
+    },
+    "200310": {
+        "date": "200310",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "200311": {
+        "date": "200311",
+        "Illinois": "0",
+        "Missouri": "14"
+    },
+    "200312": {
+        "date": "200312",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "200401": {
+        "date": "200401",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200402": {
+        "date": "200402",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200403": {
+        "date": "200403",
+        "Illinois": "5",
+        "Missouri": "15"
+    },
+    "200404": {
+        "date": "200404",
+        "Illinois": "35",
+        "Missouri": "17"
+    },
+    "200405": {
+        "date": "200405",
+        "Illinois": "372",
+        "Missouri": "204"
+    },
+    "200406": {
+        "date": "200406",
+        "Illinois": "34",
+        "Missouri": "96"
+    },
+    "200407": {
+        "date": "200407",
+        "Illinois": "134",
+        "Missouri": "108"
+    },
+    "200408": {
+        "date": "200408",
+        "Illinois": "48",
+        "Missouri": "60"
+    },
+    "200409": {
+        "date": "200409",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "200410": {
+        "date": "200410",
+        "Illinois": "31",
+        "Missouri": "42"
+    },
+    "200411": {
+        "date": "200411",
+        "Illinois": "9",
+        "Missouri": "2"
+    },
+    "200412": {
+        "date": "200412",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200501": {
+        "date": "200501",
+        "Illinois": "15",
+        "Missouri": "10"
+    },
+    "200502": {
+        "date": "200502",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200503": {
+        "date": "200503",
+        "Illinois": "27",
+        "Missouri": "7"
+    },
+    "200504": {
+        "date": "200504",
+        "Illinois": "21",
+        "Missouri": "11"
+    },
+    "200505": {
+        "date": "200505",
+        "Illinois": "52",
+        "Missouri": "30"
+    },
+    "200506": {
+        "date": "200506",
+        "Illinois": "160",
+        "Missouri": "221"
+    },
+    "200507": {
+        "date": "200507",
+        "Illinois": "67",
+        "Missouri": "50"
+    },
+    "200508": {
+        "date": "200508",
+        "Illinois": "70",
+        "Missouri": "151"
+    },
+    "200509": {
+        "date": "200509",
+        "Illinois": "78",
+        "Missouri": "128"
+    },
+    "200510": {
+        "date": "200510",
+        "Illinois": "7",
+        "Missouri": "1"
+    },
+    "200511": {
+        "date": "200511",
+        "Illinois": "56",
+        "Missouri": "65"
+    },
+    "200512": {
+        "date": "200512",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200601": {
+        "date": "200601",
+        "Illinois": "3",
+        "Missouri": "6"
+    },
+    "200602": {
+        "date": "200602",
+        "Illinois": "10",
+        "Missouri": "10"
+    },
+    "200603": {
+        "date": "200603",
+        "Illinois": "109",
+        "Missouri": "197"
+    },
+    "200604": {
+        "date": "200604",
+        "Illinois": "228",
+        "Missouri": "115"
+    },
+    "200605": {
+        "date": "200605",
+        "Illinois": "140",
+        "Missouri": "48"
+    },
+    "200606": {
+        "date": "200606",
+        "Illinois": "54",
+        "Missouri": "48"
+    },
+    "200607": {
+        "date": "200607",
+        "Illinois": "202",
+        "Missouri": "180"
+    },
+    "200608": {
+        "date": "200608",
+        "Illinois": "82",
+        "Missouri": "126"
+    },
+    "200609": {
+        "date": "200609",
+        "Illinois": "37",
+        "Missouri": "48"
+    },
+    "200610": {
+        "date": "200610",
+        "Illinois": "40",
+        "Missouri": "0"
+    },
+    "200611": {
+        "date": "200611",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "200612": {
+        "date": "200612",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200701": {
+        "date": "200701",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200702": {
+        "date": "200702",
+        "Illinois": "0",
+        "Missouri": "6"
+    },
+    "200703": {
+        "date": "200703",
+        "Illinois": "59",
+        "Missouri": "23"
+    },
+    "200704": {
+        "date": "200704",
+        "Illinois": "2",
+        "Missouri": "25"
+    },
+    "200705": {
+        "date": "200705",
+        "Illinois": "54",
+        "Missouri": "22"
+    },
+    "200706": {
+        "date": "200706",
+        "Illinois": "81",
+        "Missouri": "52"
+    },
+    "200707": {
+        "date": "200707",
+        "Illinois": "59",
+        "Missouri": "23"
+    },
+    "200708": {
+        "date": "200708",
+        "Illinois": "214",
+        "Missouri": "132"
+    },
+    "200709": {
+        "date": "200709",
+        "Illinois": "26",
+        "Missouri": "19"
+    },
+    "200710": {
+        "date": "200710",
+        "Illinois": "50",
+        "Missouri": "99"
+    },
+    "200711": {
+        "date": "200711",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200712": {
+        "date": "200712",
+        "Illinois": "12",
+        "Missouri": "1"
+    },
+    "200801": {
+        "date": "200801",
+        "Illinois": "40",
+        "Missouri": "114"
+    },
+    "200802": {
+        "date": "200802",
+        "Illinois": "24",
+        "Missouri": "8"
+    },
+    "200803": {
+        "date": "200803",
+        "Illinois": "3",
+        "Missouri": "32"
+    },
+    "200804": {
+        "date": "200804",
+        "Illinois": "10",
+        "Missouri": "40"
+    },
+    "200805": {
+        "date": "200805",
+        "Illinois": "72",
+        "Missouri": "131"
+    },
+    "200806": {
+        "date": "200806",
+        "Illinois": "324",
+        "Missouri": "207"
+    },
+    "200807": {
+        "date": "200807",
+        "Illinois": "227",
+        "Missouri": "103"
+    },
+    "200808": {
+        "date": "200808",
+        "Illinois": "167",
+        "Missouri": "56"
+    },
+    "200809": {
+        "date": "200809",
+        "Illinois": "2",
+        "Missouri": "4"
+    },
+    "200810": {
+        "date": "200810",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200811": {
+        "date": "200811",
+        "Illinois": "0",
+        "Missouri": "17"
+    },
+    "200812": {
+        "date": "200812",
+        "Illinois": "56",
+        "Missouri": "67"
+    },
+    "200901": {
+        "date": "200901",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200902": {
+        "date": "200902",
+        "Illinois": "2",
+        "Missouri": "13"
+    },
+    "200903": {
+        "date": "200903",
+        "Illinois": "69",
+        "Missouri": "47"
+    },
+    "200904": {
+        "date": "200904",
+        "Illinois": "4",
+        "Missouri": "44"
+    },
+    "200905": {
+        "date": "200905",
+        "Illinois": "79",
+        "Missouri": "126"
+    },
+    "200906": {
+        "date": "200906",
+        "Illinois": "253",
+        "Missouri": "216"
+    },
+    "200907": {
+        "date": "200907",
+        "Illinois": "61",
+        "Missouri": "58"
+    },
+    "200908": {
+        "date": "200908",
+        "Illinois": "129",
+        "Missouri": "44"
+    },
+    "200909": {
+        "date": "200909",
+        "Illinois": "6",
+        "Missouri": "1"
+    },
+    "200910": {
+        "date": "200910",
+        "Illinois": "0",
+        "Missouri": "4"
+    },
+    "200911": {
+        "date": "200911",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "200912": {
+        "date": "200912",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201001": {
+        "date": "201001",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201002": {
+        "date": "201002",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201003": {
+        "date": "201003",
+        "Illinois": "0",
+        "Missouri": "12"
+    },
+    "201004": {
+        "date": "201004",
+        "Illinois": "73",
+        "Missouri": "103"
+    },
+    "201005": {
+        "date": "201005",
+        "Illinois": "27",
+        "Missouri": "40"
+    },
+    "201006": {
+        "date": "201006",
+        "Illinois": "457",
+        "Missouri": "118"
+    },
+    "201007": {
+        "date": "201007",
+        "Illinois": "88",
+        "Missouri": "119"
+    },
+    "201008": {
+        "date": "201008",
+        "Illinois": "59",
+        "Missouri": "108"
+    },
+    "201009": {
+        "date": "201009",
+        "Illinois": "40",
+        "Missouri": "53"
+    },
+    "201010": {
+        "date": "201010",
+        "Illinois": "84",
+        "Missouri": "56"
+    },
+    "201011": {
+        "date": "201011",
+        "Illinois": "17",
+        "Missouri": "10"
+    },
+    "201012": {
+        "date": "201012",
+        "Illinois": "8",
+        "Missouri": "33"
+    },
+    "201101": {
+        "date": "201101",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201102": {
+        "date": "201102",
+        "Illinois": "43",
+        "Missouri": "53"
+    },
+    "201103": {
+        "date": "201103",
+        "Illinois": "0",
+        "Missouri": "8"
+    },
+    "201104": {
+        "date": "201104",
+        "Illinois": "158",
+        "Missouri": "108"
+    },
+    "201105": {
+        "date": "201105",
+        "Illinois": "221",
+        "Missouri": "187"
+    },
+    "201106": {
+        "date": "201106",
+        "Illinois": "311",
+        "Missouri": "209"
+    },
+    "201107": {
+        "date": "201107",
+        "Illinois": "159",
+        "Missouri": "80"
+    },
+    "201108": {
+        "date": "201108",
+        "Illinois": "49",
+        "Missouri": "168"
+    },
+    "201109": {
+        "date": "201109",
+        "Illinois": "15",
+        "Missouri": "8"
+    },
+    "201110": {
+        "date": "201110",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201111": {
+        "date": "201111",
+        "Illinois": "4",
+        "Missouri": "2"
+    },
+    "201112": {
+        "date": "201112",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201201": {
+        "date": "201201",
+        "Illinois": "20",
+        "Missouri": "11"
+    },
+    "201202": {
+        "date": "201202",
+        "Illinois": "11",
+        "Missouri": "62"
+    },
+    "201203": {
+        "date": "201203",
+        "Illinois": "14",
+        "Missouri": "11"
+    },
+    "201204": {
+        "date": "201204",
+        "Illinois": "14",
+        "Missouri": "15"
+    },
+    "201205": {
+        "date": "201205",
+        "Illinois": "43",
+        "Missouri": "18"
+    },
+    "201206": {
+        "date": "201206",
+        "Illinois": "35",
+        "Missouri": "42"
+    },
+    "201207": {
+        "date": "201207",
+        "Illinois": "131",
+        "Missouri": "84"
+    },
+    "201208": {
+        "date": "201208",
+        "Illinois": "89",
+        "Missouri": "88"
+    },
+    "201209": {
+        "date": "201209",
+        "Illinois": "65",
+        "Missouri": "147"
+    },
+    "201210": {
+        "date": "201210",
+        "Illinois": "13",
+        "Missouri": "36"
+    },
+    "201211": {
+        "date": "201211",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201212": {
+        "date": "201212",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "201301": {
+        "date": "201301",
+        "Illinois": "36",
+        "Missouri": "46"
+    },
+    "201302": {
+        "date": "201302",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "201303": {
+        "date": "201303",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201304": {
+        "date": "201304",
+        "Illinois": "28",
+        "Missouri": "56"
+    },
+    "201305": {
+        "date": "201305",
+        "Illinois": "200",
+        "Missouri": "170"
+    },
+    "201306": {
+        "date": "201306",
+        "Illinois": "152",
+        "Missouri": "91"
+    },
+    "201307": {
+        "date": "201307",
+        "Illinois": "27",
+        "Missouri": "17"
+    },
+    "201308": {
+        "date": "201308",
+        "Illinois": "28",
+        "Missouri": "26"
+    },
+    "201309": {
+        "date": "201309",
+        "Illinois": "9",
+        "Missouri": "22"
+    },
+    "201310": {
+        "date": "201310",
+        "Illinois": "11",
+        "Missouri": "15"
+    },
+    "201311": {
+        "date": "201311",
+        "Illinois": "94",
+        "Missouri": "7"
+    },
+    "201312": {
+        "date": "201312",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201401": {
+        "date": "201401",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201402": {
+        "date": "201402",
+        "Illinois": "31",
+        "Missouri": "7"
+    },
+    "201403": {
+        "date": "201403",
+        "Illinois": "1",
+        "Missouri": "9"
+    },
+    "201404": {
+        "date": "201404",
+        "Illinois": "36",
+        "Missouri": "102"
+    },
+    "201405": {
+        "date": "201405",
+        "Illinois": "39",
+        "Missouri": "31"
+    },
+    "201406": {
+        "date": "201406",
+        "Illinois": "167",
+        "Missouri": "126"
+    },
+    "201407": {
+        "date": "201407",
+        "Illinois": "59",
+        "Missouri": "113"
+    },
+    "201408": {
+        "date": "201408",
+        "Illinois": "35",
+        "Missouri": "16"
+    },
+    "201409": {
+        "date": "201409",
+        "Illinois": "39",
+        "Missouri": "49"
+    },
+    "201410": {
+        "date": "201410",
+        "Illinois": "18",
+        "Missouri": "43"
+    },
+    "201411": {
+        "date": "201411",
+        "Illinois": "0",
+        "Missouri": "2"
+    },
+    "201412": {
+        "date": "201412",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201501": {
+        "date": "201501",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201502": {
+        "date": "201502",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201503": {
+        "date": "201503",
+        "Illinois": "0",
+        "Missouri": "10"
+    },
+    "201504": {
+        "date": "201504",
+        "Illinois": "42",
+        "Missouri": "49"
+    },
+    "201505": {
+        "date": "201505",
+        "Illinois": "37",
+        "Missouri": "87"
+    },
+    "201506": {
+        "date": "201506",
+        "Illinois": "168",
+        "Missouri": "132"
+    },
+    "201507": {
+        "date": "201507",
+        "Illinois": "70",
+        "Missouri": "193"
+    },
+    "201508": {
+        "date": "201508",
+        "Illinois": "33",
+        "Missouri": "82"
+    },
+    "201509": {
+        "date": "201509",
+        "Illinois": "17",
+        "Missouri": "10"
+    },
+    "201510": {
+        "date": "201510",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201511": {
+        "date": "201511",
+        "Illinois": "36",
+        "Missouri": "22"
+    },
+    "201512": {
+        "date": "201512",
+        "Illinois": "39",
+        "Missouri": "15"
+    },
+    "201601": {
+        "date": "201601",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201602": {
+        "date": "201602",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201603": {
+        "date": "201603",
+        "Illinois": "14",
+        "Missouri": "11"
+    },
+    "201604": {
+        "date": "201604",
+        "Illinois": "18",
+        "Missouri": "91"
+    },
+    "201605": {
+        "date": "201605",
+        "Illinois": "74",
+        "Missouri": "55"
+    },
+    "201606": {
+        "date": "201606",
+        "Illinois": "83",
+        "Missouri": "56"
+    },
+    "201607": {
+        "date": "201607",
+        "Illinois": "223",
+        "Missouri": "219"
+    },
+    "201608": {
+        "date": "201608",
+        "Illinois": "17",
+        "Missouri": "35"
+    },
+    "201609": {
+        "date": "201609",
+        "Illinois": "16",
+        "Missouri": "14"
+    },
+    "201610": {
+        "date": "201610",
+        "Illinois": "7",
+        "Missouri": "8"
+    },
+    "201611": {
+        "date": "201611",
+        "Illinois": "5",
+        "Missouri": "0"
+    },
+    "201612": {
+        "date": "201612",
+        "Illinois": "0",
+        "Missouri": "4"
+    },
+    "201701": {
+        "date": "201701",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "201702": {
+        "date": "201702",
+        "Illinois": "32",
+        "Missouri": "11"
+    },
+    "201703": {
+        "date": "201703",
+        "Illinois": "96",
+        "Missouri": "223"
+    },
+    "201704": {
+        "date": "201704",
+        "Illinois": "58",
+        "Missouri": "71"
+    },
+    "201705": {
+        "date": "201705",
+        "Illinois": "104",
+        "Missouri": "197"
+    },
+    "201706": {
+        "date": "201706",
+        "Illinois": "126",
+        "Missouri": "138"
+    },
+    "201707": {
+        "date": "201707",
+        "Illinois": "124",
+        "Missouri": "36"
+    },
+    "201708": {
+        "date": "201708",
+        "Illinois": "17",
+        "Missouri": "14"
+    },
+    "201709": {
+        "date": "201709",
+        "Illinois": "4",
+        "Missouri": "7"
+    },
+    "201710": {
+        "date": "201710",
+        "Illinois": "18",
+        "Missouri": "37"
+    },
+    "201711": {
+        "date": "201711",
+        "Illinois": "14",
+        "Missouri": "3"
+    },
+    "201712": {
+        "date": "201712",
+        "Illinois": "1",
+        "Missouri": "18"
+    },
+    "201801": {
+        "date": "201801",
+        "Illinois": "0",
+        "Missouri": "7"
+    },
+    "201802": {
+        "date": "201802",
+        "Illinois": "1",
+        "Missouri": "4"
+    },
+    "201803": {
+        "date": "201803",
+        "Illinois": "0",
+        "Missouri": "4"
+    },
+    "201804": {
+        "date": "201804",
+        "Illinois": "10",
+        "Missouri": "24"
+    },
+    "201805": {
+        "date": "201805",
+        "Illinois": "128",
+        "Missouri": "133"
+    },
+    "201806": {
+        "date": "201806",
+        "Illinois": "171",
+        "Missouri": "163"
+    },
+    "201807": {
+        "date": "201807",
+        "Illinois": "43",
+        "Missouri": "85"
+    },
+    "201808": {
+        "date": "201808",
+        "Illinois": "44",
+        "Missouri": "102"
+    },
+    "201809": {
+        "date": "201809",
+        "Illinois": "47",
+        "Missouri": "2"
+    },
+    "201810": {
+        "date": "201810",
+        "Illinois": "4",
+        "Missouri": "8"
+    },
+    "201811": {
+        "date": "201811",
+        "Illinois": "0",
+        "Missouri": "3"
+    },
+    "201812": {
+        "date": "201812",
+        "Illinois": "34",
+        "Missouri": "82"
+    },
+    "201901": {
+        "date": "201901",
+        "Illinois": "1",
+        "Missouri": "0"
+    },
+    "201902": {
+        "date": "201902",
+        "Illinois": "3",
+        "Missouri": "23"
+    },
+    "201903": {
+        "date": "201903",
+        "Illinois": "4",
+        "Missouri": "11"
+    },
+    "201904": {
+        "date": "201904",
+        "Illinois": "4",
+        "Missouri": "90"
+    },
+    "201905": {
+        "date": "201905",
+        "Illinois": "220",
+        "Missouri": "197"
+    },
+    "201906": {
+        "date": "201906",
+        "Illinois": "218",
+        "Missouri": "154"
+    },
+    "201907": {
+        "date": "201907",
+        "Illinois": "50",
+        "Missouri": "26"
+    },
+    "201908": {
+        "date": "201908",
+        "Illinois": "97",
+        "Missouri": "124"
+    },
+    "201909": {
+        "date": "201909",
+        "Illinois": "33",
+        "Missouri": "6"
+    },
+    "201910": {
+        "date": "201910",
+        "Illinois": "1",
+        "Missouri": "87"
+    },
+    "201911": {
+        "date": "201911",
+        "Illinois": "7",
+        "Missouri": "1"
+    },
+    "201912": {
+        "date": "201912",
+        "Illinois": "0",
+        "Missouri": "10"
+    },
+    "202001": {
+        "date": "202001",
+        "Illinois": "4",
+        "Missouri": "18"
+    },
+    "202002": {
+        "date": "202002",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "202003": {
+        "date": "202003",
+        "Illinois": "13",
+        "Missouri": "12"
+    },
+    "202004": {
+        "date": "202004",
+        "Illinois": "66",
+        "Missouri": "36"
+    },
+    "202005": {
+        "date": "202005",
+        "Illinois": "91",
+        "Missouri": "114"
+    },
+    "202006": {
+        "date": "202006",
+        "Illinois": "106",
+        "Missouri": "71"
+    },
+    "202007": {
+        "date": "202007",
+        "Illinois": "200",
+        "Missouri": "49"
+    },
+    "202008": {
+        "date": "202008",
+        "Illinois": "271",
+        "Missouri": "83"
+    },
+    "202009": {
+        "date": "202009",
+        "Illinois": "2",
+        "Missouri": "11"
+    },
+    "202010": {
+        "date": "202010",
+        "Illinois": "2",
+        "Missouri": "1"
+    },
+    "202011": {
+        "date": "202011",
+        "Illinois": "78",
+        "Missouri": "31"
+    },
+    "202012": {
+        "date": "202012",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "202101": {
+        "date": "202101",
+        "Illinois": "0",
+        "Missouri": "1"
+    },
+    "202102": {
+        "date": "202102",
+        "Illinois": "0",
+        "Missouri": "0"
+    },
+    "202103": {
+        "date": "202103",
+        "Illinois": "14",
+        "Missouri": "16"
+    },
+    "202104": {
+        "date": "202104",
+        "Illinois": "20",
+        "Missouri": "30"
+    },
+    "202105": {
+        "date": "202105",
+        "Illinois": "32",
+        "Missouri": "57"
+    },
+    "202106": {
+        "date": "202106",
+        "Illinois": "117",
+        "Missouri": "109"
+    },
+    "202107": {
+        "date": "202107",
+        "Illinois": "109",
+        "Missouri": "61"
+    },
+    "202108": {
+        "date": "202108",
+        "Illinois": "226",
+        "Missouri": "58"
+    }
+}

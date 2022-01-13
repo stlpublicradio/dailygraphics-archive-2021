@@ -1,0 +1,159 @@
+<%= await t.include("lib/_head.html") %>
+
+<% if (COPY.labels.aldermen_headline) { %>
+<h1><%= t.smarty(COPY.labels.aldermen_headline) %></h1>
+<% } %>
+
+<% if (COPY.labels.aldermen_subhed) { %>
+<p class="chatter"><%= t.smarty(COPY.labels.aldermen_subhed) %></p>
+<% } %>
+
+<h1 class="label">Aldermen</h1>
+<h5 class="label">Ward 1</h5>
+<div id="bar-chart-ward-1" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 3</h5>
+<div id="bar-chart-ward-3" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 4</h5>
+<div id="bar-chart-ward-4" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 5</h5>
+<div id="bar-chart-ward-5" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 7</h5>
+<div id="bar-chart-ward-7" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 9</h5>
+<div id="bar-chart-ward-9" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 11</h5>
+<div id="bar-chart-ward-11" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 12</h5>
+<div id="bar-chart-ward-12" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 13</h5>
+<div id="bar-chart-ward-13" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 15</h5>
+<div id="bar-chart-ward-15" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 17</h5>
+<div id="bar-chart-ward-17" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 19</h5>
+<div id="bar-chart-ward-19" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 21</h5>
+<div id="bar-chart-ward-21" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 23</h5>
+<div id="bar-chart-ward-23" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 25</h5>
+<div id="bar-chart-ward-25" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+<h5 class="label">Ward 27</h5>
+<div id="bar-chart-ward-27" class="graphic" role="img"
+  <% if (COPY.labels.screenreader) { %>
+  aria-label="<%- COPY.labels.screenreader %>"
+  <% } %>
+>
+<img src="fallback.png" alt="" class="fallback" />
+</div>
+
+<% if (COPY.labels.aldermen_footnote) { %>
+<div class="footnotes">
+  <h4>Notes</h4>
+  <p><%= COPY.labels.aldermen_footnote %></p>
+</div>
+<% } %>
+
+<div class="footer">
+  <% if (COPY.labels.source) { %><p>Source: <%= COPY.labels.source %></p><% } %>
+  <% if (COPY.labels.credit) { %><p>Credit: <%= COPY.labels.credit %></p><% } %>
+</div>
+
+<script type="text/javascript">
+  var DATA = <%= JSON.stringify(COPY.data) %>;
+</script>
+
+<script src="./graphic.js"></script>
+
+<%= await t.include("lib/_foot.html") %>

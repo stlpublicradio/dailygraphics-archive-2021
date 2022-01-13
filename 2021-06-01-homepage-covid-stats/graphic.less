@@ -1,0 +1,61 @@
+@import "./lib/base";
+
+@font-face {
+    font-family: 'StateFaceRegular';
+    src: url('font/stateface-regular-webfont.eot');
+    src: url('font/stateface-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/stateface-regular-webfont.woff') format('woff'),
+         url('font/stateface-regular-webfont.ttf') format('truetype'),
+         url('font/stateface-regular-webfont.svg#StateFaceRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.stateIcon {
+    font-family: 'StateFaceRegular';
+    font-size: 2em;
+}
+
+.stateName {
+    position: relative;
+    top: -.4em;
+}
+
+table {
+    width: 100%;
+    font-size: 1.3em;
+    .sans-serif();
+    margin-bottom: 15px;
+
+    thead th {
+        .sans-serif-condensed();
+        font-weight: 200;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    td {
+        padding: 0px 5px;
+
+    }
+
+    
+
+    tbody {
+        text-align: right;
+        
+        td {
+            font-weight: 600;
+
+            &:nth-child(2), &:nth-child(3) {
+                text-align: center;
+            }
+        }
+    }
+
+    .state {
+        .sans-serif-condensed();
+        font-weight: 400;
+    }
+}
+
